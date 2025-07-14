@@ -105,7 +105,7 @@ Here are some of my featured work:
 
 ---
 
-### 📅 GitHub Contributions Calendar
+### 📅 GitHub Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonelcubio&theme=react-dark&area=true&hide_border=true" />
