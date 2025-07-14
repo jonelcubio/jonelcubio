@@ -105,19 +105,12 @@ Here are some of my featured work:
 
 ---
 
-### 🐍 Snake Game Contributions Calendar
-
-> *Watch your contributions come alive!*
+### 📅 GitHub Contributions Calendar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jonelcubio/jonelcubio/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jonelcubio&theme=react-dark&area=true&hide_border=true" />
 </p>
 
-
-> 💡 To enable this:
-> 1. Fork this repo: [Platane/snk](https://github.com/Platane/snk)
-> 2. Setup GitHub Actions (or I can help set it up for you)
-> 3. Commit to a `output/github-contribution-grid-snake.svg` in your profile repo
 
 ---
 
