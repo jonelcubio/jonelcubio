@@ -1,25 +1,127 @@
-# 💫 About Me:
-✨I'm a passionate Frontend Developer from the Philippines✨
+<!-- Terminal-style Animated Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="terminal animation" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mynameisjonelle021) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonelcubio) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jonelcubio021@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jonelcubio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jonelcubio&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonelcubio&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jonelcubio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%24+Hi%2C+I'm+Jonel+Cubio;Frontend+Developer;React.js+%7C+JavaScript+%7C+UI+Engineer;Clean+Code+%7C+Dark+Mode+Lover+%7C+Always+Learning" alt="Typing SVG" />
+</h1>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jonelcubio&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/jonelcubio) 
+<p align="center">
+  <!-- GitHub Badges -->
+  <a href="https://github.com/jonelcubio?tab=followers">
+    <img src="https://img.shields.io/github/followers/jonelcubio?label=Followers&style=social" />
+  </a>
+  <a href="https://github.com/jonelcubio">
+    <img src="https://img.shields.io/github/stars/jonelcubio?label=Stars&style=social" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=jonelcubio&color=blueviolet" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=jonelcubio&label=Profile+Views&color=blueviolet&style=flat" />
+  </a>
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🧠 About Me
+
+- 🧑‍💻 I'm a **Frontend Developer** focused on **React.js**, **JS**, **HTML/CSS**
+- ⚡ I love building responsive & interactive UIs
+- 🌍 Portfolio: [jonelcubio-webpage.vercel.app](https://jonelcubio-webpage.vercel.app/)
+- 📫 Contact: via [my website](https://jonelcubio-webpage.vercel.app/)
+
+---
+
+### 🎯 Pinned Projects
+
+Here are some of my featured work:
+
+- 🔹 [Personal Portfolio Website](https://github.com/jonelcubio/jonelcubio-webpage)  
+  > My developer portfolio built with HTML, CSS, JavaScript, and Vercel
+
+- 🔹 [React UI Component Library](#) *(Placeholder)*  
+  > A simple and reusable component set (WIP)
+
+- 🔹 [Dark Mode Toggle Playground](#) *(Placeholder)*  
+  > Mini project to experiment with dark/light theme toggles and state handling in React
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+### 🌗 Theme Mode Toggle (simulated badges)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌙%20DARK%20MODE-ON-black?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/☀️%20LIGHT%20MODE-OFF-gray?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonelcubio&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonelcubio&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonelcubio&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonelcubio&theme=radical&no-frame=true&column=7" />
+</p>
+
+---
+
+### 🌍 Visitor Heatmap
+
+> *See where your profile gets views from!*
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=jonelcubio&label=Global+Visitors&countColor=%23263759&style=flat-square" />
+</p>
+
+---
+
+### 🐍 Snake Game Contributions Calendar
+
+> *Watch your contributions come alive!*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jonelcubio/jonelcubio/output/github-contribution-grid-snake.svg" />
+</p>
+
+> 💡 To enable this:
+> 1. Fork this repo: [Platane/snk](https://github.com/Platane/snk)
+> 2. Setup GitHub Actions (or I can help set it up for you)
+> 3. Commit to a `output/github-contribution-grid-snake.svg` in your profile repo
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/roynalnaruto/dynamic-assets/main/code.gif" width="300" />
+</p>
+
+<p align="center"><b><i>"Sic Semper Tyrannis" – Code With Purpose."</i></b></p>
