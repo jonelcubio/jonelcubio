@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my react course answers](https://github.com/jonelcubio/my-react-course-answers)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js & TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jonelcubio](https://github.com/jonelcubio)
 
